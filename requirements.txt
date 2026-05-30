@@ -1,0 +1,10 @@
+streamlit
+langchain
+langchain-core
+langchain-openai
+openai
+yfinance
+requests
+beautifulsoup4
+pytz
+python-dotenv
